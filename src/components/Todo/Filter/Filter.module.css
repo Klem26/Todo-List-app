@@ -1,0 +1,26 @@
+.filter {
+  margin: 0 auto;
+  padding-top: 65px;
+}
+
+@media only screen and (min-width: 768px) {
+  .filter {
+    width: 500px;
+  }
+}
+
+.inputFilter {
+  padding: 10px;
+  margin: 10px 0;
+  width: 92%;
+  border: 0;
+  color: #FF8E53;
+  box-shadow: 0 0 15px 4px #eb688938;
+}
+
+.labelForm {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  font-weight: 600;
+  color: #FE6B8B;
+}

@@ -1,0 +1,18 @@
+
+.IconButton {
+      position: absolute;
+    right: 20px;
+    top: 14px;
+  margin: 0;
+  padding: 10px;
+  border: none;
+  border-radius: 50%;
+  color: #fff;
+  font: inherit;
+  background: linear-gradient(45deg, #FE6B8B 30%, #FF8E53 90%);
+  cursor: pointer;
+
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}

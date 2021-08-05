@@ -1,0 +1,36 @@
+.text{
+      margin-top: 0;
+      margin-bottom: 0;
+     margin-right: 24px;
+  margin-left: 24px;
+  }
+
+.btn{
+  display: flex;
+  background: linear-gradient(45deg, #FE6B8B 30%, #FF8E53 90%);
+  border: 0;
+  border-radius: 4px;
+  box-shadow: 0 3px 5px 2px rgba(255, 105, 135, .3);
+  color: white;
+  height: 48;
+  font-weight: 500;
+  margin-left: auto;
+    padding: 10px 1px;
+  
+}
+
+@media only screen and (min-width: 767px) {
+  .btn {
+ padding: 10px 30px;
+  }
+}
+
+.btn:hover,
+.btn:focus {
+    background:#eb6889;}
+
+.TodoList__checkbox{
+  cursor: pointer;
+  width: 24px;
+  height: 24px;
+}

@@ -1,0 +1,17 @@
+@media only screen and (min-width: 768px) {
+  .header {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid rgb(243 187 195);
+    background: #8a5dee;
+    padding: 20px;
+  }
+}
+
+.header {
+  align-items: center;
+  border-bottom: 1px solid #fff;
+  box-shadow: 5px 4px 16px 3px rgb(255 255 255);
+  background: #dff0fd;
+  padding: 20px;
+}
